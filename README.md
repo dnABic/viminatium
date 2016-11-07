@@ -1,0 +1,2 @@
+# viminatium
+My Vim setup
